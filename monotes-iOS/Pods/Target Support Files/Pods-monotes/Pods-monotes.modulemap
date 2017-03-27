@@ -1,0 +1,6 @@
+framework module Pods_monotes {
+  umbrella header "Pods-monotes-umbrella.h"
+
+  export *
+  module * { export * }
+}
